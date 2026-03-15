@@ -45,3 +45,4 @@ app-example
 google-cloud-sdk/node_modules/
 .expo/
 dist/
+service_account.json
