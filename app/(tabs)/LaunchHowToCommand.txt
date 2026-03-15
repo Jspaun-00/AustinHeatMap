@@ -1,0 +1,2 @@
+cd CrimeDashboard
+npx expo start
