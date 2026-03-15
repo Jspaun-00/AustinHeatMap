@@ -9,7 +9,7 @@ An interactive mobile application built with **React Native** and **Expo** that 
 
 ## 📱 Project Preview
 <p align="center">
-  <img src="images/preview.png" width="400" alt="App Screenshot" />
+  <img src="assets/images/icon.png" width="150" alt="App Logo" />
 </p>
 
 ## 🚀 Features
