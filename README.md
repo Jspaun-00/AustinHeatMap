@@ -1,8 +1,9 @@
 # 🚔 Austin Crime Blotter & Council District Analytics Platform
 
 <p align="center">
-  <img src="assets/logo.png" width="160" alt="Austin HeatMap Logo" />
+  <img src="assets/crime_dashboard_ui.png" width="340" alt="Austin Crime Heatmap Live Mobile UI" />
 </p>
+<p align="center"><em>Live Council District Heatmap with Temporal Breakdown (Low / Med / High Crime Volume)</em></p>
 
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![React Native](https://img.shields.io/badge/React%20Native-Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev)
