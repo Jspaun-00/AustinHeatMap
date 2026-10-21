@@ -1,5 +1,9 @@
 # 🚔 Austin Crime Blotter & Council District Analytics Platform
 
+<p align="center">
+  <img src="assets/logo.png" width="160" alt="Austin HeatMap Logo" />
+</p>
+
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![React Native](https://img.shields.io/badge/React%20Native-Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev)
 [![Google Sheets API](https://img.shields.io/badge/Integration-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://developers.google.com/sheets)
@@ -94,3 +98,4 @@ npx expo start
 ## 🔒 Security & Best Practices
 - Private Google Service Account keys and OAuth tokens are strictly ignored by `.gitignore`.
 - Raw datasets are streamed in batches to respect Socrata API rate limits.
+
